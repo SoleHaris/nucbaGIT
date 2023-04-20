@@ -1,0 +1,16 @@
+#estilos{
+    background-image: url(./assets/img/woman_programmer.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    color: azure;
+}
+
+h2{
+    color: azure;
+}
